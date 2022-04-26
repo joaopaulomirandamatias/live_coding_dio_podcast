@@ -5,7 +5,8 @@ Muito se tem falado de PodCast e do potencial que essa ferramenta tem em levar i
 
 
 
-
+![Podcast Dio](https://github.com/joaopaulomirandamatias/live_coding_dio_podcast/blob/main/.github/1.jpeg?raw=true) 
+![Podcast Dio](https://github.com/joaopaulomirandamatias/live_coding_dio_podcast/blob/main/.github/2.jpeg?raw=true)
 
 #### ARTIGOS RELACIONADOS
 [Roadmap Flutter](http://joaopaulomirandamatias.com/portifolio/index.php?class=ArticleView&method=onView&id=1)
