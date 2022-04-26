@@ -5,8 +5,8 @@ Muito se tem falado de PodCast e do potencial que essa ferramenta tem em levar i
 
 
 <div>
- <img src="https://github.com/joaopaulomirandamatias/live_coding_dio_podcast/blob/main/.github/1.jpeg" alt="Podcast Dio" height="360" width="220">
- <img src="https://github.com/joaopaulomirandamatias/live_coding_dio_podcast/blob/main/.github/2.jpeg" alt="Podcast Dio" height="360" width="220">
+ <img src="https://github.com/joaopaulomirandamatias/live_coding_dio_podcast/blob/main/.github/1.jpeg" alt="Podcast Dio" height="420" width="220">
+ <img src="https://github.com/joaopaulomirandamatias/live_coding_dio_podcast/blob/main/.github/2.jpeg" alt="Podcast Dio" height="420" width="220">
 </div>
 
 
