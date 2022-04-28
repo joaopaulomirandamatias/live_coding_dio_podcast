@@ -24,7 +24,7 @@ Muito se tem falado de PodCast e do potencial que essa ferramenta tem em levar i
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaopaulomirandamatias/)
 
 #### 📺: My channel:
-[<img src="https://img.shields.io/youtube/channel/subscribers/UCCadgwkvHUnS5e10XfOvLCg?style=social" />](https://www.youtube.com/c/ticontigo)
+[<img src="https://img.shields.io/youtube/channel/subscribers/UCCadgwkvHUnS5e10XfOvLCg?style=social" />](https://www.youtube.com/channel/UCCadgwkvHUnS5e10XfOvLCg)
 
 ![](https://komarev.com/ghpvc/?username=joaopaulomirandamatias&color=green)
 
