@@ -7,12 +7,13 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
-  
+
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Live Coding Dio',
-      home:  HomePage(),
+      home: HomePage(),
     );
   }
 }
