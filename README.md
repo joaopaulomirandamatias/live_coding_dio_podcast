@@ -20,6 +20,14 @@ Muito se tem falado de PodCast e do potencial que essa ferramenta tem em levar i
 #### ARTIGOS RELACIONADOS
 [Roadmap Flutter](http://joaopaulomirandamatias.com/portifolio/index.php?class=ArticleView&method=onView&id=1)
 
+#### :mailbox: How to reach me:  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaopaulomirandamatias/)
+
+#### 📺: My channel:
+[<img src="https://img.shields.io/youtube/channel/subscribers/UCCadgwkvHUnS5e10XfOvLCg?style=social" />](https://www.youtube.com/c/ticontigo)
+
+![](https://komarev.com/ghpvc/?username=joaopaulomirandamatias&color=green)
+
 
 
 
